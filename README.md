@@ -2,6 +2,8 @@
 
 Construa, utilizando React, uma aplicação para calcular o salário líquido a partir do salário bruto, considerando as regras da CLT de 2020.
 
+Pode acessar o site em: **[React Salário](https://modulo03-trabalho-pratico.herokuapp.com/)**
+
 To install the website dependencies:
 
 ```sh
